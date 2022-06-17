@@ -4,8 +4,8 @@
 It's a project to introduce SVG:
 
 Implementation details:
-[Android 绘制矢量图（上）—— 语法](https://juejin.cn/post/7109419653067177997)
-[Android 绘制矢量图（下）—— 画一个冰墩墩](https://juejin.cn/post/7110067005423632398)
+[Android 绘制矢量图（上）—— 语法](/blogs/Android 绘制矢量图（上）—— 语法.md)
+[Android 绘制矢量图（下）—— 画一个冰墩墩](/blogs/Android 绘制矢量图（下）—— 画一个冰墩墩.md)
 
 ## :camera_flash: Screenshots
 <img src="/results/screenshot_1.png" width="260">
