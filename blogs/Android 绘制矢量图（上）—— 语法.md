@@ -1,9 +1,4 @@
----
-highlight: androidstudio
-theme: github
----
-
-持续创作，加速成长！这是我参与「掘金日新计划 · 6 月更文挑战」的第1天，[点击查看活动详情](https://juejin.cn/post/7099702781094674468 "https://juejin.cn/post/7099702781094674468")
+# Android 绘制矢量图（上）—— 语法
 
 Android 中支持矢量图，矢量图具有放大缩小时不变模糊的特性，因为矢量图是通过图片中路径的坐标绘制的。
 

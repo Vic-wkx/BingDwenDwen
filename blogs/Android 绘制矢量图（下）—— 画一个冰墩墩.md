@@ -1,3 +1,5 @@
+# Android 绘制矢量图（下）—— 画一个冰墩墩
+
 在上篇文章中，我们学习了 Android 中 SVG 的基本语法。本篇文章我们就来实战一下，用 SVG 的语法绘制一个冰墩墩。顺便助力“一人一墩”的梦想！
 
 ![One man, one dwen](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/21fc036b96b14cc9b00236d584d29233~tplv-k3u1fbpfcp-watermark.image?)
