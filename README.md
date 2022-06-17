@@ -1,7 +1,7 @@
 # Bing Dwen Dwen
 
 ## :scroll: Description
-It's project to introduce SVG:
+It's a project to introduce SVG:
 
 Implementation details: [Android 绘制矢量图（下）—— 画一个冰墩墩](https://juejin.cn/post/7110067005423632398)
 
