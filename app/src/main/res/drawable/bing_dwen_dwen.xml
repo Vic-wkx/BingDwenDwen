@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:aapt="http://schemas.android.com/aapt"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:width="2000dp"
-    android:height="2000dp"
+    android:width="200dp"
+    android:height="200dp"
     android:viewportWidth="2000"
-    android:viewportHeight="2000"
-    tools:ignore="VectorRaster">
+    android:viewportHeight="2000">
     
     <!--Shape-->
     <path
@@ -60,7 +58,7 @@
         C445,1016,440,1022,428,1053
         C396,1142,307,1112,304,1048
         Q300,987,418,803
-        " />
+        z" />
 
     <!-- Right hand-->
     <path
@@ -71,7 +69,7 @@
         C1282,448,1480,477,1429,575
         C1403,621,1374,689,1287,757
         Q1291,693,1267,594
-        " />
+        z" />
 
     <!-- Left foot-->
     <path
@@ -81,7 +79,7 @@
         C626,1261,776,1297,792,1336
         C756,1387,838,1427,710,1428
         C505,1431,644,1381,585,1231
-        " />
+        z" />
 
     <!--Right foot-->
     <path
@@ -91,25 +89,7 @@
         C981,1318,938,1293,1125,1226
         C1087,1370,1172,1404,1014,1420
         C875,1425,959,1403,910,1342
-        " />
-
-    <!--Left eye socket-->
-    <path
-        android:fillColor="#000000"
-        android:pathData="
-        M806,552
-        C706,492,512,681,603,777
-        C738,882,896,600,806,552
-        " />
-
-    <!--Right eye socket-->
-    <path
-        android:fillColor="#000000"
-        android:pathData="
-        M989,541
-        C1080,477,1251,684,1168,768
-        C1077,837,893,607,989,541
-        " />
+        z" />
 
     <!-- Muffler-->
     <path
@@ -117,7 +97,8 @@
         M497,772
         C425,371,1145,80,1262,699
         C1294,945,1105,1031,907,1040
-        C716,1049,519,962,497,772z"
+        C716,1049,519,962,497,772
+        z"
         android:strokeWidth="7"
         android:strokeColor="#73fd94" />
 
@@ -126,7 +107,8 @@
         M515,794
         C405,421,1093,119,1242,646
         C1316,881,1130,1001,898,1003
-        C732,1005,562,961,515,794"
+        C732,1005,562,961,515,794
+        z"
         android:strokeWidth="5"
         android:strokeColor="#f97dfe" />
 
@@ -134,7 +116,8 @@
         android:pathData="
         M611,909
         C301,602,878,185,1137,487
-        C1495,981,840,1066,611,909"
+        C1495,981,840,1066,611,909
+        z"
         android:strokeWidth="9"
         android:strokeColor="#ecea87" />
 
@@ -142,7 +125,8 @@
         android:pathData="
         M611,909
         C281,592,878,200,1137,487
-        C1495,1001,840,1076,611,909"
+        C1495,1001,840,1076,611,909
+        z"
         android:strokeWidth="7"
         android:strokeColor="#9ad6ff" />
 
@@ -151,7 +135,8 @@
         M515,794
         C405,421,1053,109,1242,646
         C1316,911,1150,1001,898,1023
-        C732,1025,562,971,515,794"
+        C732,1025,562,971,515,794
+        z"
         android:strokeWidth="5"
         android:strokeColor="#9ad6ff" />
 
@@ -159,7 +144,8 @@
         android:pathData="
         M545,674
         C673,289,1265,370,1215,773
-        C1177,1083,453,1010,545,674"
+        C1177,1083,453,1010,545,674
+        z"
         android:strokeWidth="7"
         android:strokeColor="#d2fbe5" />
 
@@ -167,7 +153,8 @@
         android:pathData="
         M549,752
         C548,421,1037,320,1191,640
-        C1309,1058,597,1021,549,752"
+        C1309,1058,597,1021,549,752
+        z"
         android:strokeWidth="7"
         android:strokeColor="#4a46be" />
 
@@ -175,36 +162,19 @@
         android:pathData="
         M549,752
         C548,441,1057,300,1191,640
-        C1319,1048,567,1021,549,752"
+        C1319,1048,567,1021,549,752
+        z"
         android:strokeWidth="5"
         android:strokeColor="#b5e7fe" />
 
-    <!--Mouse-->
+    <!--Left eye socket-->
     <path
         android:fillColor="#000000"
         android:pathData="
-        M824,728
-        C895,754,939,740,982,726
-        C935,782,861,764,824,728
-        " />
-
-    <path
-        android:fillColor="#e5482d"
-        android:pathData="
-        M870,750
-        C876,746,939,745,945,749
-        C910,764,872,755,870,750
-        " />
-
-    <!--Heart-->
-    <path
-        android:fillColor="#e5482d"
-        android:pathData="
-        M1364,545
-        C1359,525,1300,508,1331,595
-        C1338,615,1349,607,1356,605
-        C1394,587,1420,532,1364,545
-        " />
+        M806,552
+        C706,492,512,681,603,777
+        C738,882,896,600,806,552
+        z" />
 
     <!--Left eye-->
     <path
@@ -213,12 +183,13 @@
         M749,595
         C798,592,829,709,743,712
         C659,707,686,593,749,595
-    " />
+        z" />
 
     <path android:pathData="
         M699,655
         C696,596,782,574,783,653
-        C775,735,694,699,699,655">
+        C775,735,694,699,699,655
+        z">
         <aapt:attr name="android:fillColor">
             <gradient
                 android:centerX="742"
@@ -241,7 +212,31 @@
         M719,655
         C716,633,760,609,762,657
         C755,691,723,676,719,655
-        " />
+        z" />
+
+    <!--Left eye highlight-->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="
+        M743,636
+        A13,13,0,1,0,742,636
+        z" />
+
+    <path
+        android:fillColor="#5fc2ba"
+        android:pathData="
+        M732,682
+        A7,7,0,1,0,731,682
+        z" />
+
+    <!--Right eye socket-->
+    <path
+        android:fillColor="#000000"
+        android:pathData="
+        M989,541
+        C1080,477,1251,684,1168,768
+        C1077,837,893,607,989,541
+        z" />
 
     <!--Right eye-->
     <path
@@ -250,12 +245,13 @@
         M988,630
         C997,569,1091,548,1087,647
         C1079,719,976,710,988,630
-        " />
+        z" />
 
     <path android:pathData="
         M995,634
         C993,584,1077,559,1077,641
-        C1068,707,993,689,995,634">
+        C1068,707,993,689,995,634
+        z">
         <aapt:attr name="android:fillColor">
             <gradient
                 android:centerX="1040"
@@ -278,25 +274,22 @@
         M1022,621
         C1055,596,1065,650,1042,659
         C1027,662,1002,646,1022,621
-        " />
-
-    <!--Left eye highlight-->
-    <path
-        android:fillColor="#FFFFFF"
-        android:pathData="M743,636A13,13,0,1,0,742,636" />
-
-    <path
-        android:fillColor="#5fc2ba"
-        android:pathData="M732,682A7,7,0,1,0,731,682" />
+        z" />
 
     <!--Right eye highlight-->
     <path
         android:fillColor="#FFFFFF"
-        android:pathData="M1036,618A13,13,0,1,0,1035,618" />
+        android:pathData="
+        M1036,618
+        A13,13,0,1,0,1035,618
+        z" />
 
     <path
         android:fillColor="#5fc2ba"
-        android:pathData="M1024,666A7,7,0,1,0,1023,666" />
+        android:pathData="
+        M1024,666
+        A7,7,0,1,0,1023,666
+        z" />
 
     <!--Nose-->
     <path
@@ -306,13 +299,13 @@
             C863,646,867,682,901,698
             C920,706,927,704,941,694
             C970,668,961,644,914,646
-            " />
-
+            z" />
 
     <path android:pathData="
             M886,666
             C887,648,945,644,944,666
-            C944,686,886,683,886,666">
+            C944,686,886,683,886,666
+            z">
         <aapt:attr name="android:fillColor">
             <gradient
                 android:endColor="#000000"
@@ -325,7 +318,24 @@
         </aapt:attr>
     </path>
 
-    <!--Five Circle-->
+    <!--Mouse-->
+    <path
+        android:fillColor="#000000"
+        android:pathData="
+        M824,728
+        C895,754,939,740,982,726
+        C935,782,861,764,824,728
+        z" />
+
+    <path
+        android:fillColor="#e5482d"
+        android:pathData="
+        M870,750
+        C876,746,939,745,945,749
+        C910,764,872,755,870,750
+        z" />
+
+    <!--Five Circles-->
     <path
         android:pathData="M886,1260A15,15,0,1,0,885,1260"
         android:strokeWidth="3"
@@ -351,4 +361,13 @@
         android:strokeWidth="3"
         android:strokeColor="#f53e59" />
 
+    <!--Heart-->
+    <path
+        android:fillColor="#e5482d"
+        android:pathData="
+        M1364,545
+        C1359,525,1300,508,1331,595
+        C1338,615,1349,607,1356,605
+        C1394,587,1420,532,1364,545
+        z" />
 </vector>
